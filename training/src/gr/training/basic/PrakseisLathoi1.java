@@ -1,5 +1,7 @@
 package gr.training.basic;
 
+//ena sxolio apo ag
+
 public class PrakseisLathoi1 {
 
 	public static void main(String[] args) {
